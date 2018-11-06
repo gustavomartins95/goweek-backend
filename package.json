@@ -1,0 +1,17 @@
+{
+  "name": "goweek-backend",
+  "version": "1.0.0",
+  "description": "GoWeek - 2018",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Gustavo Martins",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.9",
+    "socket.io": "^2.1.1"
+  }
+}
